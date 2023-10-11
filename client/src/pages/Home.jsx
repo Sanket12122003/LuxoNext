@@ -56,7 +56,7 @@ export default function Home() {
           On All Products. 
         </h1>
         <div className='text-gray-900 text-xs sm:text-sm'>
-          GrapesBazzar is the best quality grpaes provider platform 
+        eGrapes is the best quality grpaes provider platform 
           <br />
           We have a wide range of varities for you to choose from.
         </div>

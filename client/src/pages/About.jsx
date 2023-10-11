@@ -3,9 +3,9 @@
 export default function About() {
   return (
     <div className='py-20 px-4 max-w-6xl mx-auto'>
-    <h1 className='text-3xl text-center font-bold mb-4 text-green-800'>GrapesBazzar</h1>
+    <h1 className='text-3xl text-center font-bold mb-4 text-green-800'>eGrapes</h1>
     <h1 className='text-2xl text-center font-bold mb-4 text-slate-800'>Introduction:</h1>
-    <p className='mb-4 text-slate-700'>At GrapesBazzar, we are more than just an online marketplace. we are your gateway to a world of exceptional products and seamless shopping experiences. We believe that shopping should be a joy, and selling should be a breeze, and that's what we are here to offer.</p>
+    <p className='mb-4 text-slate-700'>At eGrapes, we are more than just an online marketplace. we are your gateway to a world of exceptional products and seamless shopping experiences. We believe that shopping should be a joy, and selling should be a breeze, and that's what we are here to offer.</p>
     
     <h1 className='text-2xl text-center font-bold mb-4 text-slate-800'>Our Mission:</h1>
     <p className='mb-4 text-slate-700'>

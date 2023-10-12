@@ -21,10 +21,10 @@ export default function About() {
     Exclusivity: LuxoNext is your exclusive destination for premier real estate listings, curated for the discerning buyer. Our properties represent the pinnacle of luxury and quality..</p>
     <p className='mb-4 text-slate-700'>
     Personalized Service: We understand that luxury goes beyond the property itself. Our concierge service is dedicated to ensuring your entire experience is as opulent as the homes we showcase.
-</p>
-<p className='mb-4 text-slate-700'>
-Global Reach: LuxoNext isn't confined by borders. We offer an international portfolio of luxury properties, making your dream home a global possibility.
     </p>
-  </div>
+    <p className='mb-4 text-slate-700'>
+    Global Reach: LuxoNext isn't confined by borders. We offer an international portfolio of luxury properties, making your dream home a global possibility.
+        </p>
+      </div>
   )
 }
